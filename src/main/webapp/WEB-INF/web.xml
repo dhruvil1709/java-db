@@ -10,15 +10,15 @@
   </context-param>
   <context-param>
     <param-name>dbPassword</param-name>
-    <param-value>welcome1</param-value>
+    <param-value>Patels9797</param-value>
   </context-param>
   <context-param>
     <param-name>dbURL</param-name>
-    <param-value>jdbc:mysql://learnwithprojects-com.cgjldmlqtnkq.ca-central-1.rds.amazonaws.com:3306/</param-value>
+    <param-value>jdbc:mysql://rds-db.clfx5yvxwpjr.ca-central-1.rds.amazonaws.com:3306/</param-value>
   </context-param>
   <context-param>
     <param-name>dbName</param-name>
-    <param-value>learnwithprojectsCom</param-value>
+    <param-value>rdsDb</param-value>
   </context-param>
   <servlet>
   	<servlet-name>LoginServlet</servlet-name>
